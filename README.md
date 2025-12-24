@@ -16,41 +16,50 @@ The goal is to showcase practical data analysis, querying, visualization, and re
 (Dataset used for educational and analytical purposes)
 
 ## 🛠 Tools & Technologies
-- Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
-- Pandas, NumPy, Matplotlib, Seaborn – Data manipulation & visualization
-- MySQL – Writing and executing SQL queries
-- Power BI – Interactive dashboard creation
-- Gamma – Report and presentation (PPT) creation
+- **Python** – Data loading, cleaning, and Exploratory Data Analysis (EDA)
+- **Pandas, NumPy, Matplotlib, Seaborn** – Data manipulation & visualization
+- **MySQL** – Writing and executing SQL queries
+- **Power BI** – Interactive dashboard creation
+- **Gamma** – Report and presentation (PPT) creation
 
-## 🔄 Project Workflow / Steps
-- Data Loading
-  Imported the dataset into Python using Pandas.
-- Exploratory Data Analysis (EDA)
-  Data cleaning and preprocessing
-Handling missing values
-Statistical analysis
-Visual exploration of customer behaviour and sales trends
-SQL Analysis
-Loaded cleaned data into a MySQL database
-Performed SQL queries to answer business questions such as:
-Top-selling products
-Customer spending patterns
-Category-wise sales performance
-Dashboard Creation
-Built an interactive Power BI dashboard to visualize:
-Sales trends
-Customer segmentation
-Product performance
-Reporting & Presentation
-Created a structured analytical report
-Designed a professional presentation (PPT) using Gamma
-📊 Dashboard Highlights
-Total sales and revenue overview
-Category-wise and product-wise performance
-Customer purchasing patterns
-Monthly and trend-based insights
-📈 Key Insights / Results
-Identified high-revenue product categories
-Analyzed customer purchase frequency and spending behaviour
-Highlighted seasonal and trend-based sales patterns
-Provided data-driven insights to support business decision-making
+### 🔄 Project Workflow / Steps
+- 1.Data Loading
+  - Imported the dataset into Python using Pandas.
+- 2.Exploratory Data Analysis (EDA)
+  - Data cleaning and preprocessing
+  - Handling missing values
+  - Statistical analysis
+  - Visual exploration of customer behaviour and sales trends
+- 3.SQL Analysis
+  - Loaded cleaned data into a MySQL database
+  - Performed SQL queries to answer business questions such as:
+    - Top-selling products
+    - Customer spending patterns
+    - Category-wise sales performance
+- 4.Dashboard Creation
+  - Built an interactive Power BI dashboard to visualize:
+    - Sales trends
+    - Customer segmentation
+    - Product performance
+- 5.Reporting & Presentation
+  - Created a structured analytical report
+  - Designed a professional presentation (PPT) using Gamma
+
+## 📊 Dashboard Highlights
+- Total sales and revenue overview
+- Category-wise and product-wise performance
+- Customer purchasing patterns
+- Monthly and trend-based insights
+
+## 📈 Key Insights / Results
+- Identified high-revenue product categories
+- Analyzed customer purchase frequency and spending behaviour
+- Highlighted seasonal and trend-based sales patterns
+- Provided data-driven insights to support business decision-making
+
+## 🎯 Skills Demonstrated
+- Data Cleaning & EDA
+- SQL Querying (MySQL)
+- Data Visualization & Dashboarding
+- Business Insight Generation
+- Reporting & Presentation
